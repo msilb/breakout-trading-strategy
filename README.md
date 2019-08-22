@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/msilb/breakout-trading-strategy.svg?branch=master)](https://travis-ci.org/msilb/breakout-trading-strategy)
+
 # Breakout Trading Strategy based on Bollinger Bands
 
 ## Strategy Description
